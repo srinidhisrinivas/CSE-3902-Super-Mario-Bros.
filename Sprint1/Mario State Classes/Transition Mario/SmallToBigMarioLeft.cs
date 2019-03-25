@@ -1,0 +1,22 @@
+﻿using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CSE3902
+{
+    class SmallToBigMarioLeft : TransitionMarioState
+    {
+        public SmallToBigMarioLeft(IMario mario) : base(mario)
+        {
+            mario.PowerType = new BigMarioType();
+            CurrentSpriteMap.Add(true, MarioSpriteFactory.Instance.CreateBigMarioLeftIdleSprite());
+            CurrentSpriteMap.Add(false, MarioSpriteFactory.Instance.CreateSmallMarioLeftIdleSprite());
+            MarioSprite = CurrentSpriteMap[false];
+            FinalState = new BigMarioLeftIdle(mario);
+        }
+    }
+}

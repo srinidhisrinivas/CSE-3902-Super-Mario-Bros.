@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/mario.png</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/enemies.png</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/misc-3.gif</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/characters.gif</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/bg-1-1.png</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/misc-2.gif</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/Underground.mp3</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/starMario.mp3</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/HurryMainTheme.mp3</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/MainTheme.mp3</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/PowerupAppears.wav</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/Powerup.wav</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/Pause.wav</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/Superjump.wav</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/Stomp.wav</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/Pipe.wav</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/Mariodie.wav</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/Kick.wav</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/StageClear.wav</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/Smalljump.wav</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/Gameover.wav</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/Flagpole.wav</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/Coin.wav</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/Fireball.wav</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/Bump.wav</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/BreakBlock.wav</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/1Up.wav</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/Header.spritefont</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/Coinv2.wav</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/SmallJumpv2.wav</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/Stompv2.wav</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/Kickv2.wav</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/BreakBlockv2.wav</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/Points.spritefont</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/ScreenText.spritefont</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/FastStarMario.mp3</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/FastUnderground.mp3</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/FastOverworld.mp3</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/FastOverworldv2.mp3</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/DownFlagpolev2.wav</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/DistortedOverworld.mp3</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/itemsOld.png</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/items.png</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/firebar.png</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/smb_bowserfall.wav</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/smb_bowserfire.wav</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/04-castle.mp3</File>
+    <File>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/16-hurry-castle-.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>

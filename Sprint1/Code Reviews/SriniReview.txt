@@ -1,0 +1,51 @@
+﻿Author of Review: Srinidhi Srinivas
+Date of Review: 11/7/18
+
+Sprint number: 5
+
+Name of the .cs file being reviewed: SoundManager.cs
+Author of the .cs file being reviewed: Sydney Lee
+
+Number of minutes taken to complete the review: 10
+
+Naming: 
+- The name of the class 'SoundManager' tells the reader that it manages sound. It is a clear name that would sound too 
+  complex and unnecessary if anything else were added.
+- The variable names are not consistent. For example, both songs 'starMarioSong' and 'overworld' are named differently.
+ The name omitting the word 'song' is also ambiguous as it doesn't describe it as anything, except 'overworld'. An
+  appropriate change would be 'overworldTheme' or 'overworldSong'
+- The method names are fairly self explanatory. For example, 'PlayUnderworldTheme' tells it quite obviously that its 
+  function is to play the underworld theme.
+
+What the class does:
+- The class is quite obviously a Sound Manager. On further reading, one can tell that it loads, plays, and stops sounds.
+  It does what it says it does, and the name makes sense.
+
+Other notes:
+ - The class has a lot of variable declarations on the same line. It's hard to keep track of everything that's going on.
+ - The class has methods to play the songs, but not to play the sound effects. While it is functional without it, it 
+   confuses the reader as to why the sound effect variables exist but can't be played, as the songs can through methods.
+ 
+--------------------------------------------------------------------------------------------------------------------------------------------
+ Author of Review: Srinidhi Srinivas
+Date of Review: 11/14/18
+
+Sprint number: 5
+
+Name of the .cs file being reviewed: SoundManager.cs
+Author of the .cs file being reviewed: Sydney Lee
+
+Number of minutes taken to complete the review: 10
+
+Coherence: The class does a good job of fulfilling a single purpose. It manages the sound and does nothing else. The methods haves simple names
+		that have a single task. This increases the coherence of the class by making each method have a single function. 
+
+Complexity: The class does not have any branching, so it is low on cyclomatic complexity. However, it does have a lot of variables, making it easy
+		to lose track of everything contained within the class. The initialize method is also very large to initialize every single variable
+		that was declared.
+
+Coupling: The class has no coupling, as it is does not call methods of any other classes. The only class that it takes information from is the SoundUtility
+		class, which gives it its necessary contents to load the data.
+
+Hypothetical change: Suppose there were a new kind of sound to be added, such as a dialogue, that is not a song or a sound effect, this class would support it well. 
+		The addition of more types would require only an addition of types, their initializations, and methods. There would be no need for modification of anything.

@@ -1,0 +1,45 @@
+﻿Review Author: Brant Dong
+Date: 11/07/2018
+Sprint #5
+.cs File: CommandMarioBreakBlock.cs
+.cs Author: Synd
+number Of Minutes: 30 minutes
+Comments:
+
+what is readable:
+Naming: good
+The variable's name can clearly explaining what's the function of them.
+I do like the the method name: "block" and "mario". These can
+explicitly express what's the function of these two methods.
+
+Explain what the class does: good
+This CommandMarioBreakBlock.cs do a great job to explain what it does.
+In the exeucute part "SoundManager.breakBlock.Play();" did a great job to explain its function.
+"new CommandMoveMarioDown(mario, collisionType).Execute();" will tell the reader that when mario hit breakblock, it will go down.
+
+
+
+what is not readable: 
+I think this calss is really readble. It is simple and clean.
+Every method's name and variable's name is pretty clean.
+------------------------------------------------------------------------------------------------------------------------
+Review Author: Brant Dong
+Date: 11/14/2018
+Sprint #5
+.cs File: SpriteUtility.cs
+.cs Author: Syndney
+number Of Minutes: 25 minutes
+Comments:
+Cohesion: high
+Our team are using the idea of utility class, because we want to have high cohesion in our
+code. By constructing the utility classes, we can manage all the magic numbers easily, 
+which allows us to make change only in this utility classes in the future. 
+E.g if we want to change the x velocity or y velocity, we can just easily change the value inside this utility class.
+
+Coupling: low
+Coupling in here is low, because all the magic nunmbers are managed by this utility class.
+By using such strategy, interdependecy in our item classes are low.
+Thus we are having low coupling here.
+
+hypothetical change:
+no

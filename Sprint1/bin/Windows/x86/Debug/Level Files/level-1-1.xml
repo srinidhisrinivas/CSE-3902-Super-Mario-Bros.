@@ -1,0 +1,3235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+	<LevelInfo>
+		<World>1 - 1</World>
+		<Width>9344</Width>
+		<Height>480</Height>
+		<Time>300</Time>
+		<WarningTime>100</WarningTime>
+		<Music>MainTheme</Music>
+		<OverworldXBounds>0 7584</OverworldXBounds>
+		<UnderworldXBounds>8416 9216</UnderworldXBounds>
+		<OverworldYBounds>0 480</OverworldYBounds>
+		<UnderworldYBounds>0 480</UnderworldYBounds>
+		<OverworldBGColor>CornflowerBlue</OverworldBGColor>
+		<UnderworldBGColor>Black</UnderworldBGColor>
+		<NextLevel>Level Files\hell.xml</NextLevel>
+	</LevelInfo>
+	<Item>
+		<ObjectType>Mario</ObjectType>
+		<ObjectName>Mario</ObjectName>
+		<Location>{X:160 Y:400}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>ShortPipe</ObjectName>
+		<Location>{X:368 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>ShortPipe</ObjectName>
+		<Location>{X:668 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:450 Y:152}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:482 Y:152}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:514 Y:152}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:546 Y:152}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:578 Y:152}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:610 Y:152}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:418 Y:120}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:642 Y:120}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Enemy</ObjectType>
+		<ObjectName>Goomba</ObjectName>
+		<Location>{X:546 Y:120}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Enemy</ObjectType>
+		<ObjectName>Koopa</ObjectName>
+		<Location>{X:600 Y:120}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>QuestionBlockCoin</ObjectName>
+		<Location>{X:528 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>QuestionBlockCoin</ObjectName>
+		<Location>{X:560 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HiddenBlockCoin</ObjectName>
+		<Location>{X:592 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Enemy</ObjectType>
+		<ObjectName>Goomba</ObjectName>
+		<Location>{X:528 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Enemy</ObjectType>
+		<ObjectName>Koopa</ObjectName>
+		<Location>{X:592 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>QuestionBlockPowerUp</ObjectName>
+		<Location>{X:160 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>QuestionBlockPowerUp</ObjectName>
+		<Location>{X:192 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>QuestionBlockPowerUp</ObjectName>
+		<Location>{X:224 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>QuestionBlockCoin</ObjectName>
+		<Location>{X:256 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockCoin</ObjectName>
+		<Location>{X:0 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockStar</ObjectName>
+		<Location>{X:64 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HiddenBlockPowerUp</ObjectName>
+		<Location>{X:32 Y:196}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:-32 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:-32 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:-32 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:-32 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:-32 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:-32 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:-32 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:-32 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:-32 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:-32 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:7584 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:7584 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:7584 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:7584 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:7584 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:7584 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:7584 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:7584 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:7584 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:7584 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>LittleCloud</ObjectName>
+		<Location>{X:1072 Y:130}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>LittleCloud</ObjectName>
+		<Location>{X:1424 Y:98}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>BigCloud</ObjectName>
+		<Location>{X:1680 Y:130}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>MediumCloud</ObjectName>
+		<Location>{X:1968 Y:98}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>LittleCloud</ObjectName>
+		<Location>{X:2608 Y:130}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>LittleCloud</ObjectName>
+		<Location>{X:2960 Y:98}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>BigCloud</ObjectName>
+		<Location>{X:3216 Y:130}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>MediumCloud</ObjectName>
+		<Location>{X:3504 Y:98}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>LittleCloud</ObjectName>
+		<Location>{X:4144 Y:130}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>LittleCloud</ObjectName>
+		<Location>{X:4496 Y:98}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>BigCloud</ObjectName>
+		<Location>{X:4752 Y:130}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>MediumCloud</ObjectName>
+		<Location>{X:5040 Y:98}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>LittleCloud</ObjectName>
+		<Location>{X:5680 Y:130}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>LittleCloud</ObjectName>
+		<Location>{X:6032 Y:98}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>BigCloud</ObjectName>
+		<Location>{X:6288 Y:130}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>MediumCloud</ObjectName>
+		<Location>{X:6576 Y:98}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>BigBush</ObjectName>
+		<Location>{X:1168 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>LittleBush</ObjectName>
+		<Location>{X:1552 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>MediumBush</ObjectName>
+		<Location>{X:2128 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>BigBush</ObjectName>
+		<Location>{X:2704 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>LittleBush</ObjectName>
+		<Location>{X:3088 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>MediumBush</ObjectName>
+		<Location>{X:3664 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>BigBush</ObjectName>
+		<Location>{X:4240 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>LittleBush</ObjectName>
+		<Location>{X:4624 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>MediumBush</ObjectName>
+		<Location>{X:5200 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>BigBush</ObjectName>
+		<Location>{X:5776 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>LittleBush</ObjectName>
+		<Location>{X:6160 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>MediumBush</ObjectName>
+		<Location>{X:6736 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>BigHill</ObjectName>
+		<Location>{X:800 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>LittleHill</ObjectName>
+		<Location>{X:1312 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>BigHill</ObjectName>
+		<Location>{X:2336 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>LittleHill</ObjectName>
+		<Location>{X:2848 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>BigHill</ObjectName>
+		<Location>{X:3872 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>LittleHill</ObjectName>
+		<Location>{X:4384 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>BigHill</ObjectName>
+		<Location>{X:5408 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>LittleHill</ObjectName>
+		<Location>{X:5920 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>Castle</ObjectName>
+		<Location>{X:7264 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>ShortPipe</ObjectName>
+		<Location>{X:1696 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>MediumPipe</ObjectName>
+		<Location>{X:2016 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>TallPipe</ObjectName>
+		<Location>{X:2304 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>TallPipe</ObjectName>
+		<Location>{X:2624 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>ShortPipe</ObjectName>
+		<Location>{X:6016 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>ShortPipe</ObjectName>
+		<Location>{X:6528 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5088 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5120 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5152 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5184 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5120 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5152 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5184 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5152 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5184 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5184 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5280 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5312 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5344 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5376 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5280 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5312 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5344 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5280 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5312 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5280 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5536 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5568 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5600 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5632 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5664 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5568 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5600 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5632 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5664 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5600 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5632 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5664 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5632 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5664 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5760 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5792 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5824 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5856 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5760 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5792 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5824 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5760 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5792 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5760 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6592 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6624 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6656 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6688 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6720 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6752 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6784 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6816 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6848 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6624 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6656 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6688 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6720 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6752 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6784 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6816 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6848 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6656 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6688 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6720 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6752 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6784 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6816 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6848 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6688 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6720 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6752 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6784 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6816 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6848 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6720 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6752 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6784 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6816 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6848 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6752 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6784 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6816 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6848 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6784 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6816 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6848 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6816 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:6848 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:7136 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>Flagpole</ObjectName>
+		<Location>{X:7150 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>QuestionBlockCoin</ObjectName>
+		<Location>{X:1312 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:1440 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>QuestionBlockMagicMushroom</ObjectName>
+		<Location>{X:1472 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:1504 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>QuestionBlockCoin</ObjectName>
+		<Location>{X:1536 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:1568 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>QuestionBlockCoin</ObjectName>
+		<Location>{X:1504 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HiddenBlockGreenMushroom</ObjectName>
+		<Location>{X:2848 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:3264 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>QuestionBlockPowerUp</ObjectName>
+		<Location>{X:3296 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:3328 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:3360 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:3392 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:3424 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:3456 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:3488 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:3520 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:3552 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:3584 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:3712 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:3744 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:3776 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>QuestionBlockCoin</ObjectName>
+		<Location>{X:3808 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockMultipleCoin</ObjectName>
+		<Location>{X:3808 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:3936 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockStar</ObjectName>
+		<Location>{X:3968 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>QuestionBlockCoin</ObjectName>
+		<Location>{X:4128 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>QuestionBlockCoin</ObjectName>
+		<Location>{X:4224 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>QuestionBlockCoin</ObjectName>
+		<Location>{X:4320 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>QuestionBlockPowerUp</ObjectName>
+		<Location>{X:4224 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:4576 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:4672 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:4704 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:4736 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:4896 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>QuestionBlockCoin</ObjectName>
+		<Location>{X:4928 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>QuestionBlockCoin</ObjectName>
+		<Location>{X:4960 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:4992 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:4928 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:4960 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:6176 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:6208 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>QuestionBlockCoin</ObjectName>
+		<Location>{X:6240 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>RedBrickBlockBreakable</ObjectName>
+		<Location>{X:6272 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Enemy</ObjectType>
+		<ObjectName>Goomba</ObjectName>
+		<Location>{X:2272 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Enemy</ObjectType>
+		<ObjectName>Goomba</ObjectName>
+		<Location>{X:2528 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Enemy</ObjectType>
+		<ObjectName>Goomba</ObjectName>
+		<Location>{X:2592 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Enemy</ObjectType>
+		<ObjectName>Goomba</ObjectName>
+		<Location>{X:3456 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Enemy</ObjectType>
+		<ObjectName>Goomba</ObjectName>
+		<Location>{X:3520 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Enemy</ObjectType>
+		<ObjectName>Goomba</ObjectName>
+		<Location>{X:4896 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Enemy</ObjectType>
+		<ObjectName>Goomba</ObjectName>
+		<Location>{X:4856 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Enemy</ObjectType>
+		<ObjectName>Goomba</ObjectName>
+		<Location>{X:4800 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Enemy</ObjectType>
+		<ObjectName>Goomba</ObjectName>
+		<Location>{X:4760 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Enemy</ObjectType>
+		<ObjectName>Koopa</ObjectName>
+		<Location>{X:4384 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Enemy</ObjectType>
+		<ObjectName>Goomba</ObjectName>
+		<Location>{X:4056 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Enemy</ObjectType>
+		<ObjectName>Goomba</ObjectName>
+		<Location>{X:4096 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Enemy</ObjectType>
+		<ObjectName>Goomba</ObjectName>
+		<Location>{X:6328 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Enemy</ObjectType>
+		<ObjectName>Goomba</ObjectName>
+		<Location>{X:6368 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8064 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8064 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8064 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8064 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8064 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8064 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8064 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8064 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8064 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8064 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8064 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8064 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8064 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8096 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8096 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8096 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8096 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8096 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8096 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8096 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8096 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8096 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8096 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8096 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8096 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8096 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8128 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8128 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8128 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8128 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8128 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8128 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8128 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8128 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8128 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8128 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8128 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8128 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8128 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8160 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8160 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8160 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8160 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8160 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8160 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8160 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8160 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8160 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8160 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8160 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8160 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8160 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8192 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8192 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8192 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8192 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8192 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8192 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8192 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8192 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8192 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8192 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8192 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8192 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8192 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8224 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8224 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8224 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8224 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8224 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8224 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8224 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8224 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8224 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8224 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8224 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8224 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8224 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8256 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8256 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8256 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8256 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8256 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8256 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8256 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8256 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8256 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8256 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8256 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8256 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8256 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8288 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8288 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8288 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8288 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8288 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8288 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8288 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8288 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8288 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8288 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8288 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8288 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8288 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8320 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8320 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8320 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8320 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8320 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8320 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8320 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8320 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8320 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8320 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8320 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8320 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8320 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8352 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8352 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8352 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8352 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8352 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8352 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8352 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8352 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8352 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8352 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8352 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8352 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8352 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8384 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8384 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8384 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8384 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8384 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8384 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8384 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8384 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8384 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8384 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8384 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8384 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8384 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8416 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8416 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8416 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8416 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8416 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8416 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8416 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8416 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8416 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8416 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8416 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8416 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8416 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8448 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8448 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8448 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8448 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8448 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8448 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8448 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8448 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8448 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8448 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8448 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8448 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8448 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8480 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8480 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8480 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8480 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8480 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8480 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8480 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8480 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8480 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8480 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8480 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8480 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8480 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8512 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8512 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8512 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8512 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8512 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8512 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8512 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8512 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8512 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8512 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8512 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8512 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8512 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8544 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8544 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8544 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8544 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8544 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8544 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8544 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8544 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8544 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8544 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8544 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8544 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8544 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>StationaryCoin</ObjectName>
+		<Location>{X:8672 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>StationaryCoin</ObjectName>
+		<Location>{X:8704 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>StationaryCoin</ObjectName>
+		<Location>{X:8736 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>StationaryCoin</ObjectName>
+		<Location>{X:8768 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>StationaryCoin</ObjectName>
+		<Location>{X:8800 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>StationaryCoin</ObjectName>
+		<Location>{X:8832 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>StationaryCoin</ObjectName>
+		<Location>{X:8864 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>StationaryCoin</ObjectName>
+		<Location>{X:8672 Y:272}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>StationaryCoin</ObjectName>
+		<Location>{X:8704 Y:272}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>StationaryCoin</ObjectName>
+		<Location>{X:8736 Y:272}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>StationaryCoin</ObjectName>
+		<Location>{X:8768 Y:272}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>StationaryCoin</ObjectName>
+		<Location>{X:8800 Y:272}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>StationaryCoin</ObjectName>
+		<Location>{X:8832 Y:272}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>StationaryCoin</ObjectName>
+		<Location>{X:8864 Y:272}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>StationaryCoin</ObjectName>
+		<Location>{X:8704 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>StationaryCoin</ObjectName>
+		<Location>{X:8736 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>StationaryCoin</ObjectName>
+		<Location>{X:8768 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>StationaryCoin</ObjectName>
+		<Location>{X:8800 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>StationaryCoin</ObjectName>
+		<Location>{X:8832 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>LeftPipe</ObjectName>
+		<Location>{X:9056 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>AscensionPipe</ObjectName>
+		<Location>{X:9120 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9184 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9184 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9184 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9184 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9184 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9184 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9184 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9184 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9184 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9184 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9184 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9184 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9184 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9216 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9216 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9216 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9216 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9216 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9216 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9216 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9216 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9216 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9216 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9216 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9216 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9216 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9248 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9248 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9248 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9248 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9248 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9248 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9248 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9248 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9248 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9248 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9248 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9248 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9248 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9280 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9280 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9280 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9280 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9280 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9280 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9280 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9280 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9280 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9280 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9280 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9280 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9280 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9312 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9312 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9312 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9312 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9312 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9312 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9312 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9312 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9312 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9312 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9312 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9312 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9312 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9344 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9344 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9344 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9344 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9344 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9344 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9344 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9344 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9344 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9344 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9344 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9344 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9344 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9376 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9376 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9376 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9376 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9376 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9376 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9376 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9376 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9376 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9376 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9376 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9376 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9376 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9408 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9408 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9408 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9408 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9408 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9408 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9408 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9408 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9408 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9408 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9408 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9408 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9408 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9440 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9440 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9440 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9440 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9440 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9440 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9440 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9440 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9440 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9440 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9440 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9440 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9440 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9472 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9472 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9472 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9472 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9472 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9472 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9472 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9472 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9472 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9472 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9472 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9472 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:9472 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8672 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8704 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8736 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8768 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8800 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8832 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8864 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8672 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8704 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8736 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8768 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8800 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8832 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8864 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8672 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8704 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8736 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8768 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8800 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8832 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8864 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8672 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8704 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8736 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8768 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8800 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8832 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8864 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8672 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8704 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8736 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8768 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8800 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8832 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>BlueBrickBlockBreakable</ObjectName>
+		<Location>{X:8864 Y:32}</Location>
+	</Item>
+	<Portal>
+		<Type>UnderworldClosedPortal</Type>
+		<Source>{X:2632 Y:286}</Source>
+		<Tag>1</Tag>
+		<Width>32</Width>
+		<Height>20</Height>
+		<MotionDirection>1</MotionDirection>
+	</Portal>
+	<Portal>
+		<Type>OverworldOpenPortal</Type>
+		<Source>{X:9055 Y:352}</Source>
+		<Tag>2</Tag>
+		<Width>15</Width>
+		<Height>48</Height>
+		<MotionDirection>3</MotionDirection>
+	</Portal>
+	<Portal>
+		<Type>ExitPortal</Type>
+		<Source>{X:8624 Y:-5}</Source>
+		<Tag>1</Tag>
+		<Width>15</Width>
+		<Height>48</Height>
+		<MotionDirection>1</MotionDirection>
+	</Portal>
+	<Portal>
+		<Type>ExitPortal</Type>
+		<Source>{X:6037 Y:397}</Source>
+		<Tag>2</Tag>
+		<Width>15</Width>
+		<Height>48</Height>
+		<MotionDirection>0</MotionDirection>
+	</Portal>
+	<Floor>
+		<Type>Block</Type>
+		<Location>{X:0 Y:480}</Location>
+		<Width>94</Width>
+		<Height>2</Height>
+		<BlockType>RedCrackedBlock</BlockType>
+	</Floor>
+	<Floor>
+		<Type>Block</Type>
+		<Location>{X:3072 Y:480}</Location>
+		<Width>15</Width>
+		<Height>2</Height>
+		<BlockType>RedCrackedBlock</BlockType>
+	</Floor>
+	<Floor>
+		<Type>Block</Type>
+		<Location>{X:3648 Y:480}</Location>
+		<Width>64</Width>
+		<Height>2</Height>
+		<BlockType>RedCrackedBlock</BlockType>
+	</Floor>
+	<Floor>
+		<Type>Block</Type>
+		<Location>{X:5760 Y:480}</Location>
+		<Width>57</Width>
+		<Height>2</Height>
+		<BlockType>RedCrackedBlock</BlockType>
+	</Floor>
+	<Floor>
+		<Type>Block</Type>
+		<Location>{X:8064 Y:480}</Location>
+		<Width>40</Width>
+		<Height>2</Height>
+		<BlockType>BlueCrackedBlock</BlockType>
+	</Floor>
+</XnaContent>

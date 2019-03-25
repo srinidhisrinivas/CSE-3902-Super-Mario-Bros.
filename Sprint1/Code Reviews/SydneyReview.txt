@@ -1,0 +1,77 @@
+﻿Readability Review
+
+Author of the code review: Sydney Lee
+Date of code review: 12/2/18
+Sprint number: 6
+
+Name of the .cs file being reviewed: Bowser.cs
+Author of the .cs file being reviewed: Srini Srinivas
+
+Number of minutes taken to complete the review: 20 minutes
+
+Naming: Good
+-The naming in this class is good, the class itself is clearly in charge of the main functionality of the Bowser enemy and his
+different actions for his states and this name is concise and short. Similarly, method names are succinct and easy to understand,
+each method for Bowser describes the object's simple task (i.e. Jump, Idle, etc.) and the current state performing this action.
+-The names of the variables are equally readable and easy to understand. The variables for Bowser's health are obviously covered
+by the healthPoints variable. Similarly, the yAcceleration variable handle's Bowser's vertical physics.
+-The only thing that is slightly confusing about the names is the variable brain. While it can be assumed that this is for the
+Bowser AI, it might make more sense to explicitly call this something like bowserAI.
+
+Explaining what the class does: Great
+-Bowser.cs is well organized and the names of the classes and methods explain what the class does well.
+-This class clearly shows how it organizes all Bowser's state and actions in the corresponding methods.
+Each case is handled concisely with little confusion and involvement of unnecessary classes with 
+a method name that clearly states what the method is handling.
+-This class is structured in a systematic way so that each case is handled in a similar way, with the
+correct responses, therefore explaining how it calls the current state methods well.
+
+Additional Comments:
+-Overall, the class is well formatted with the initialization of Bowser's initial health and physics
+-The class has a medium length fitting nearly on the screen which is good, the class is not overly complex 
+for what it handles making it easy to understand and remember.
+-In the case where there is changes to the game, the class may have to get longer to handle more cases of Bowser's actions
+which may make it more complex and harder to understand.
+
+
+Maintainability Review
+
+Author of the code review: Sydney Lee
+Date of code review: 12/2/18
+Sprint number: 6
+
+Name of the .cs file being reviewed: Bowser.cs
+Author of the .cs file being reviewed: Srini Srinivas
+
+Number of minutes taken to complete the review: 20 minutes
+
+Cohesion: Good
+-This class has good cohesion, clearly each method perform a single and concise task. For example, the Jump method causes the state of Bowser to go to jumping
+by calling the current IBowserState's jump method.
+-The class overall does one thing, this class focuses on the actions and responses of the Bowser enemy without different classes
+being involved and unnecessary tasks.
+
+Coupling: Good
+-Bowser.cs has fairly loose coupling, the class is not heavily dependent on other classes.
+-The majority of the methods do not need other classes to perform tasks, in general, most variables are hardocoded numbers
+or properties of the Bowser object.
+-The SoundManager is also involved in this class though it is not heavily coupled since the ScoreManager does not involve itself in
+the implementation of the SoundManager.
+
+Complexity: Good
+-The class has good complexity because it is a medium length and not very many methods.
+-Bowser.cs is around 60 lines of code thus the class has fairly good complexity for what the class needs to accomplish.
+The Bowser class has many tasks and the class is reasonably simple.
+-However, as there are more cases to handle in Bowser's actions, the length of the class will grow and the
+complexity will increase.
+
+Additional Comments:
+-Overall method formats is well indented and easy to read and understand, thus reducing complexity
+-It is possible that the class methods could be further abstracted since the format of the methods are similar with similar inputs
+
+Hypothetical Game Change:
+-Suppose there is a hypothetical game change that Bowser can also crouch to avoid fireballs. This class can easily handle this by
+adding another method called Crouch(). This method would simply call state.Crouch() which can be implemented in the Bowser states
+this class also doesn't need to concern itself with the AI implementation. This will, however, make the class longer and increase
+the complexity.
+

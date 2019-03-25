@@ -1,0 +1,1323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+	<LevelInfo>
+		<World>1 - 4</World>
+		<Width>5120</Width>
+		<Height>480</Height>
+		<Time>300</Time>
+		<WarningTime>100</WarningTime>
+		<Music>CastleSong</Music>
+		<OverworldXBounds>0 5120</OverworldXBounds>
+		<UnderworldXBounds>0 0</UnderworldXBounds>
+		<OverworldYBounds>0 480</OverworldYBounds>
+		<UnderworldYBounds>0 480</UnderworldYBounds>
+		<OverworldBGColor>Black</OverworldBGColor>
+		<UnderworldBGColor>Black</UnderworldBGColor>
+		<NextLevel>END</NextLevel>
+	</LevelInfo>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:-32 Y:480}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:-32 Y:448}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:-32 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:-32 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:-32 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:-32 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:-32 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:-32 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:-32 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:-32 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:-32 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:-32 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:-32 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:-32 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:-32 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5120 Y:480}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5120 Y:448}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5120 Y:416}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5120 Y:384}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5120 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5120 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5120 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5120 Y:256}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5120 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5120 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5120 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5120 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5120 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5120 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HardBlock</ObjectName>
+		<Location>{X:5120 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Mario</ObjectType>
+		<ObjectName>Mario</ObjectName>
+		<Location>{X:50 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>QuestionBlockPowerUp</ObjectName>
+		<Location>{X:960 Y:224}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HiddenBlockCoin</ObjectName>
+		<Location>{X:3392 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HiddenBlockCoin</ObjectName>
+		<Location>{X:3424 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HiddenBlockCoin</ObjectName>
+		<Location>{X:3488 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HiddenBlockCoin</ObjectName>
+		<Location>{X:3520 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HiddenBlockCoin</ObjectName>
+		<Location>{X:3584 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HiddenBlockCoin</ObjectName>
+		<Location>{X:3616 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:736 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2560 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2816 Y:64}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>Axe</ObjectName>
+		<Location>{X:4512 Y:288}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Enemy</ObjectType>
+		<ObjectName>Bowser</ObjectName>
+		<Location>{X:4384 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>UsedBlock</ObjectName>
+		<Location>{X:736 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>UsedBlock</ObjectName>
+		<Location>{X:960 Y:352}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>UsedBlock</ObjectName>
+		<Location>{X:1184 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1568 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>UsedBlock</ObjectName>
+		<Location>{X:1568 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1920 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>UsedBlock</ObjectName>
+		<Location>{X:1920 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2144 Y:160}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>UsedBlock</ObjectName>
+		<Location>{X:2144 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>UsedBlock</ObjectName>
+		<Location>{X:2400 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>UsedBlock</ObjectName>
+		<Location>{X:2688 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>UsedBlock</ObjectName>
+		<Location>{X:2944 Y:320}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>UsedBlock</ObjectName>
+		<Location>{X:2560 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2816 Y:96}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>UsedBlock</ObjectName>
+		<Location>{X:2816 Y:128}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HorizontalMovingPlatform</ObjectName>
+		<Location>{X:4288 Y:192}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:0 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:32 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:64 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:96 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:128 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:160 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:192 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:224 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:256 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:288 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:320 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:352 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:384 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:416 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:448 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:480 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:512 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:544 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:576 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:608 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:640 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:672 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:704 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:736 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:768 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:800 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:832 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:864 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:896 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:928 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:960 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:992 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1024 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1056 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1088 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1120 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1152 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1184 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1216 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1248 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1280 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1312 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1344 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1376 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1408 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1440 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1472 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1504 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1536 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1568 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1600 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1632 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1664 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1696 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1728 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1760 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1792 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1824 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1856 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1888 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1920 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1952 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:1984 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2016 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2048 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2080 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2112 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2144 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2176 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2208 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2240 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2272 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2304 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2336 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2368 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2400 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2432 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2464 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2496 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2528 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2560 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2592 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2624 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2656 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2688 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2720 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2752 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2784 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2816 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2848 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2880 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2912 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2944 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:2976 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3008 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3040 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3072 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3104 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3136 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3168 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3200 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3232 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3264 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3296 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3328 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3360 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3392 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3424 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3456 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3488 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3520 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3552 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3584 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3616 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3648 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3680 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3712 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3744 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3776 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3808 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3840 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3872 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3904 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3936 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:3968 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4000 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4032 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4064 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4096 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4128 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4160 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4192 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4224 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4256 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4288 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4320 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4352 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4384 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4416 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4448 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4480 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4512 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4544 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4576 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4608 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4640 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4672 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4704 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4736 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4768 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4800 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4832 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4864 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4896 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4928 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4960 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:4992 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:5024 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:5056 Y:32}</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HellBlock</ObjectName>
+		<Location>{X:5088 Y:32}</Location>
+	</Item>
+	<FireBar>
+		<ObjectName>FireBar</ObjectName>
+		<Location>{X:960 Y:352}</Location>
+		<NumberOfFireballs>6</NumberOfFireballs>
+		<AngularVelocity>0.06283186</AngularVelocity>
+		<InitialAngle>1.5707963267949</InitialAngle>
+		<RotationDirection>0</RotationDirection>
+	</FireBar>
+	<FireBar>
+		<ObjectName>FireBar</ObjectName>
+		<Location>{X:1568 Y:192}</Location>
+		<NumberOfFireballs>9</NumberOfFireballs>
+		<AngularVelocity>0.06283186</AngularVelocity>
+		<InitialAngle>1.5707963267949</InitialAngle>
+		<RotationDirection>0</RotationDirection>
+	</FireBar>
+	<FireBar>
+		<ObjectName>FireBar</ObjectName>
+		<Location>{X:1920 Y:192}</Location>
+		<NumberOfFireballs>9</NumberOfFireballs>
+		<AngularVelocity>0.06283186</AngularVelocity>
+		<InitialAngle>1.5707963267949</InitialAngle>
+		<RotationDirection>0</RotationDirection>
+	</FireBar>
+	<FireBar>
+		<ObjectName>FireBar</ObjectName>
+		<Location>{X:2144 Y:192}</Location>
+		<NumberOfFireballs>9</NumberOfFireballs>
+		<AngularVelocity>0.06283186</AngularVelocity>
+		<InitialAngle>1.5707963267949</InitialAngle>
+		<RotationDirection>0</RotationDirection>
+	</FireBar>
+	<FireBar>
+		<ObjectName>FireBar</ObjectName>
+		<Location>{X:2400 Y:320}</Location>
+		<NumberOfFireballs>8</NumberOfFireballs>
+		<AngularVelocity>0.06283186</AngularVelocity>
+		<InitialAngle>1.5707963267949</InitialAngle>
+		<RotationDirection>0</RotationDirection>
+	</FireBar>
+	<FireBar>
+		<ObjectName>FireBar</ObjectName>
+		<Location>{X:2688 Y:320}</Location>
+		<NumberOfFireballs>8</NumberOfFireballs>
+		<AngularVelocity>0.06283186</AngularVelocity>
+		<InitialAngle>1.5707963267949</InitialAngle>
+		<RotationDirection>0</RotationDirection>
+	</FireBar>
+	<FireBar>
+		<ObjectName>FireBar</ObjectName>
+		<Location>{X:2816 Y:128}</Location>
+		<NumberOfFireballs>8</NumberOfFireballs>
+		<AngularVelocity>0.06283186</AngularVelocity>
+		<InitialAngle>1.5707963267949</InitialAngle>
+		<RotationDirection>0</RotationDirection>
+	</FireBar>
+	<Floor>
+		<Type>Block</Type>
+		<Location>{X:0 Y:96}</Location>
+		<Width>24</Width>
+		<Height>2</Height>
+		<BlockType>HellBlock</BlockType>
+	</Floor>
+	<Floor>
+		<Type>Block</Type>
+		<Location>{X:0 Y:256}</Location>
+		<Width>3</Width>
+		<Height>1</Height>
+		<BlockType>HellBlock</BlockType>
+	</Floor>
+	<Floor>
+		<Type>Block</Type>
+		<Location>{X:0 Y:288}</Location>
+		<Width>4</Width>
+		<Height>1</Height>
+		<BlockType>HellBlock</BlockType>
+	</Floor>
+	<Floor>
+		<Type>Block</Type>
+		<Location>{X:0 Y:320}</Location>
+		<Width>5</Width>
+		<Height>1</Height>
+		<BlockType>HellBlock</BlockType>
+	</Floor>
+	<Floor>
+		<Type>Block</Type>
+		<Location>{X:0 Y:480}</Location>
+		<Width>13</Width>
+		<Height>5</Height>
+		<BlockType>HellBlock</BlockType>
+	</Floor>
+	<Floor>
+		<Type>Lava</Type>
+		<Location>{X:416 Y:480}</Location>
+		<Width>2</Width>
+		<Height>3</Height>
+		<BlockType>NullBlock</BlockType>
+	</Floor>
+	<Floor>
+		<Type>Block</Type>
+		<Location>{X:480 Y:480}</Location>
+		<Width>11</Width>
+		<Height>5</Height>
+		<BlockType>HellBlock</BlockType>
+	</Floor>
+	<Floor>
+		<Type>Lava</Type>
+		<Location>{X:832 Y:480}</Location>
+		<Width>3</Width>
+		<Height>2</Height>
+		<BlockType>NullBlock</BlockType>
+	</Floor>
+	<Floor>
+		<Type>Block</Type>
+		<Location>{X:928 Y:480}</Location>
+		<Width>3</Width>
+		<Height>5</Height>
+		<BlockType>HellBlock</BlockType>
+	</Floor>
+	<Floor>
+		<Type>Lava</Type>
+		<Location>{X:1024 Y:480}</Location>
+		<Width>3</Width>
+		<Height>2</Height>
+		<BlockType>NullBlock</BlockType>
+	</Floor>
+	<Floor>
+		<Type>Block</Type>
+		<Location>{X:1120 Y:480}</Location>
+		<Width>69</Width>
+		<Height>5</Height>
+		<BlockType>HellBlock</BlockType>
+	</Floor>
+	<Floor>
+		<Type>Block</Type>
+		<Location>{X:1184 Y:128}</Location>
+		<Width>35</Width>
+		<Height>3</Height>
+		<BlockType>HellBlock</BlockType>
+	</Floor>
+	<Floor>
+		<Type>Block</Type>
+		<Location>{X:3104 Y:96}</Location>
+		<Width>7</Width>
+		<Height>2</Height>
+		<BlockType>HellBlock</BlockType>
+	</Floor>
+	<Floor>
+		<Type>Block</Type>
+		<Location>{X:3328 Y:480}</Location>
+		<Width>24</Width>
+		<Height>2</Height>
+		<BlockType>HellBlock</BlockType>
+	</Floor>
+	<Floor>
+		<Type>Block</Type>
+		<Location>{X:3712 Y:416}</Location>
+		<Width>4</Width>
+		<Height>3</Height>
+		<BlockType>HellBlock</BlockType>
+	</Floor>
+	<Floor>
+		<Type>Block</Type>
+		<Location>{X:3936 Y:416}</Location>
+		<Width>5</Width>
+		<Height>3</Height>
+		<BlockType>HellBlock</BlockType>
+	</Floor>
+	<Floor>
+		<Type>Block</Type>
+		<Location>{X:3936 Y:96}</Location>
+		<Width>5</Width>
+		<Height>2</Height>
+		<BlockType>HellBlock</BlockType>
+	</Floor>
+	<Floor>
+		<Type>Lava</Type>
+		<Location>{X:4096 Y:480}</Location>
+		<Width>13</Width>
+		<Height>2</Height>
+		<BlockType>HellBlock</BlockType>
+	</Floor>
+	<Floor>
+		<Type>Bridge</Type>
+		<Location>{X:4096 Y:352}</Location>
+		<Width>52</Width>
+		<Height>1</Height>
+		<BlockType>NullBlock</BlockType>
+	</Floor>
+	<Floor>
+		<Type>Block</Type>
+		<Location>{X:4512 Y:480}</Location>
+		<Width>20</Width>
+		<Height>2</Height>
+		<BlockType>HellBlock</BlockType>
+	</Floor>
+	<Floor>
+		<Type>Block</Type>
+		<Location>{X:4512 Y:416}</Location>
+		<Width>3</Width>
+		<Height>4</Height>
+		<BlockType>HellBlock</BlockType>
+	</Floor>
+	<Floor>
+		<Type>Block</Type>
+		<Location>{X:4544 Y:128}</Location>
+		<Width>2</Width>
+		<Height>3</Height>
+		<BlockType>HellBlock</BlockType>
+	</Floor>
+</XnaContent>

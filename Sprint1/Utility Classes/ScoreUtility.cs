@@ -1,0 +1,91 @@
+﻿using Microsoft.Xna.Framework;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CSE3902
+{
+    public static class ScoreUtility
+    {
+        public readonly static float half = 2f;
+        public readonly static float smallMargin = 50f;
+        public readonly static float largeMargin = 200f;
+        public readonly static int pointCountInit = 0;
+        public readonly static int segment1Score = 500;
+        public readonly static int segment2Score = 1000;
+
+        public readonly static int coinCountInit = 0;
+        public readonly static int lifeCountInit = 0;
+        public readonly static int timerScoreInit = 100;
+        public readonly static int brickBreakScoreInit = 50;
+        public readonly static int lifeXLoc = 500;
+        public readonly static int extraLifeLowerBound = 0;
+        public readonly static int coinMod = 100;
+        public readonly static int redMushroomScore = 1000;
+        public readonly static int magicMushroomScore = 2000;
+        public readonly static int greenMushroomScore = 1000;
+        public readonly static int flowerScore = 1000;
+        public readonly static int starScore = 1000;
+        public readonly static int coinScore = 200;
+        public readonly static int stationCoinScore = 200;
+        public readonly static int goombaScore = 100;
+        public readonly static int koopaScore = 200;
+        public readonly static int addOne=1;
+        public readonly static string oneUp = "1-UP!";
+        public readonly static int chainLengthZero = 0;
+        public readonly static int chainLengthOne = 1;
+        public readonly static int chainLengthTwo = 2;
+        public readonly static int chainLengthThree = 3;
+        public readonly static int chainLengthFour = 4;
+        public readonly static int chainLengthFive = 5;
+        public readonly static int chainLengthSix = 6;
+        public readonly static int chainLengthSeven = 7;
+        public readonly static int chainLengthEight = 8;
+        public readonly static int chainLengthNine = 9;
+        public readonly static int chainLengthTen = 10;
+        public readonly static int chainLengthZeroScore = 0;
+        public readonly static int chainLengthOneScore = 100;
+        public readonly static int chainLengthTwoScore = 200;
+        public readonly static int chainLengthThreeScore = 400;
+        public readonly static int chainLengthFourScore = 500;
+        public readonly static int chainLengthFiveScore = 800;
+        public readonly static int chainLengthSixScore = 1000;
+        public readonly static int chainLengthSevenScore = 2000;
+        public readonly static int chainLengthEightScore = 4000;
+        public readonly static int chainLengthNineScore = 5000;
+        public readonly static int chainLengthTenScore = 8000;
+        public readonly static int previousRealTimeInit = 0;
+        public readonly static int minRemainingTime = 0;
+        public readonly static int rapidMsTimeStep = 20;
+        public readonly static int halfSecMsTimeStep = 500;
+        public readonly static int rapidTimeWarning = 0;
+        public readonly static int disappearTimerInit = 30;
+        public readonly static int disappearTimerMin = 0;
+        public readonly static Vector2 disappearTextLocation = new Vector2(0, 1);
+        public readonly static string fullNamePrefix = "CSE3902.";
+        public readonly static string headerFontName = "Header";
+        public readonly static string pointFontName = "Points";
+        public readonly static string screenFontName = "ScreenText";
+        public readonly static string scoreText = "SCORE";
+        public readonly static string coinText = "COINS";
+        public readonly static string timeText = "TIME";
+        public readonly static string pauseText = "PAUSED";
+        public readonly static string winText = "YOU WIN!";
+        public readonly static string gameoverText = "GAME OVER";
+        public readonly static string livesText = "LIVES REMAINING:";
+        public readonly static string worldText = "WORLD";
+        public readonly static string contentName = "Content";
+        public readonly static string levelFileName = @"Level Files\level-1-1.xml";
+        public readonly static Vector2 scoreTextLocation = new Vector2(50, 25);
+        public readonly static Vector2 coinTextLocation = new Vector2(250, 25);
+        public readonly static Vector2 timeTextLocation = new Vector2(650, 25);
+        public readonly static Vector2 worldTextLocation = new Vector2(450, 25);
+        public readonly static Vector2 scoreNumLocation = new Vector2(50, 50);
+        public readonly static Vector2 coinNumLocation = new Vector2(250, 50);
+        public readonly static Vector2 worldNumLocation = new Vector2(450, 50);
+        public readonly static Vector2 timeNumLocation = new Vector2(650, 50);
+        public readonly static Vector2 screenDim = new Vector2(800, 480);
+    }
+}

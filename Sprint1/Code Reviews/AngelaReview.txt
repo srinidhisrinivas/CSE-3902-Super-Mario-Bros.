@@ -1,0 +1,73 @@
+﻿CODE READIABILITY REVIEW
+
+Review Author: Angela Byars
+Date: 11/7/2018
+
+Sprint #5
+
+.cs File: SecondsCountdownTimer.cs
+.cs Author: Srini Srinivas
+
+# Of Minutes: 12 minutes
+
+Comments:
+
+NAMING: Pretty Good
+-The names of all the variables are clear to what their functions are, but the variable
+names may be too broad. We know that the class deals with the timers of objects/actions, but what each timer signifies
+is a bit ambiguous. The differences between Warning, OnTick, and Elapsed Actions is not intuitive when looking at the code.
+-The naming of all the variables is still good, since not a lot of computation needs to be done on them, so the long
+names are good for the difference variables.
+
+CLASS EXPLANATION: Good
+-This class has the constructor and the Update method, both of which are comprehensible.
+-The Toggling of the pause button and the reset methods are self explanatory, so good job!
+
+
+OVERALL READABILITY: Good
+-The class is not that long with is good readability and complexity-wise.
+-The logic statements are well separated so it's clear to see when statements stop and start.
+-The code's maintainability seems to be pretty good since new items that would use this object
+would just need to call it, so not much in this file would need to change unless some kind of object/action
+requires some new wacky timer.
+
+-----------------------
+CODE QUALITY REVIEW
+
+Review Author: Angela Byars
+Date: 11/14/20118
+
+Sprint #5
+
+.cs File: SoundManager.cs
+.cs Author: Sydney Lee
+
+# Of Minutes: 10 minutes
+
+COHESION: Good
+-It is very clear what the class does just from looking at the different statements in each method.
+Depending upon the sounds effect that gets called to play when an event happens, the actual sounds effect 
+gets played through this SoundManager.
+
+COUPLING: Very Good
+-This class isn't really closely coupled with anything else in the project. If anything, the SoundManager depends
+on the sounds in Soundd utility, but that is to be expected in order to get rid of the hardcoded content in this class.
+
+
+COMPLEXITY: Very Good
+-The methods themselves are not very complex at all. Not a lot of computation is needed, and all of the lines of code
+are pretty straightforward.
+-The methods are also very short, which is another indicator that the class is not very complex, which is good.
+-The only long method is the initalize method, but it is not vomplex at all so it's okay.
+
+GAME CHANGE:
+-Depending on how many new sounds need to be added, the dictionary in the SoundManager would grow exponentially.
+-If you wanted to speed up every sound effect, you would need to create a whole new different sound effect in order
+to do that. The same could be said if you wanted to combine sound effects or slow down/speed up certain sound effects by
+a certain percentage. If there were maybe some speed up and slow down methods, the SoundManager could handle these
+potential game changes a little better.
+-Other than that, if a new sound effect needed to be added, it be quite easy to, which is great since that follows the
+design principle of open to addition but closed to modification.
+
+
+

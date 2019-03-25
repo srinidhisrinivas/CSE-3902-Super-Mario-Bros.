@@ -1,0 +1,13 @@
+﻿Burndown Chart Assessment
+
+For project management in Sprint 6, we assigned the new features, mainly the new Magic Mushroom item, gamestate, physics, music, and colors as well as
+the sprites, music, Bowser, projectiles, and fire in level 1-4. As usual, there was a period of time in which no work was assigned because the group started the planning phase late. 
+Then, there was a large increase as work was assigned and a later increase when more tasks were assigned based on initial implementation. 
+Once work was assigned, there was a platueau in which the group was trying to figure out how to approach the work. Then, work
+was completed quickly over the next few days. There was a sharp decrease in work as the group completed work over the break. Then several platueaus followed
+by more work completion as the group discussed more about game design implementation, overall achieving a somewhat consistent decline in work
+
+For the time management of Sprint 6, the group continued to use groupMe and discord for communication and talking in class and through group meetings
+to discuss tasks and help one another get unstuck or understand concepts. The group made sure to ask others if they needed help so that an individual did not
+fall behind on tasks and a member had something to do once their tasks were done. The group also made sure to get tasks done early so that when the
+deadline approached so that we could check over everything and reduce the stress of getting tasks done last minute.

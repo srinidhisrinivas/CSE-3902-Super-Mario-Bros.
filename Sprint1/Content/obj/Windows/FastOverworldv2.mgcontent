@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/FastOverworldv2.mp3</SourceFile>
+  <SourceTime>2018-11-07T16:12:52.6921693-05:00</SourceTime>
+  <DestFile>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/bin/Windows/FastOverworldv2.xnb</DestFile>
+  <DestTime>2018-11-30T11:25:39.2046834-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Srinidhi/Source/Repos/OneOfTheCoolerTeams3/Sprint1/Sprint1/Content/bin/Windows/FastOverworldv2.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
